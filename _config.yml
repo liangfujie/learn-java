@@ -1,6 +1,6 @@
 title: learn-java
-description: learn-java
-show_downloads: true
+description: fujie.liang
+show_downloads: false
 
 baseurl: "/learn-java" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://liangfujie.github.io" # change this to the base hostname & protocol for your site
